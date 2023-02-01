@@ -1,0 +1,21 @@
+/* 
+Theme Name: simpledesign
+Theme URI: ''
+Author: Cristian Fabozzo
+Author URI: 
+Description: Simple and Responsive design
+Tags: ''
+Version: 1.0
+Requires at least: ''
+Tested up to: ''
+Requires PHP: ''
+License: ''
+License URI: '' 
+Text Domain: simpledesign
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+.container-fluid{
+    background-color: red !important;
+}
